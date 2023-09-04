@@ -2,6 +2,7 @@
 
 <!--
 **EduardoVGVM/EduardoVGVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 <h3>Sobre mim</h3>
 
@@ -48,4 +49,3 @@
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-morais-7141b1214/)]
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dudu.vgvm@gmail.com)]
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)][(https://github.com/EduardoVGVM)]
--->
