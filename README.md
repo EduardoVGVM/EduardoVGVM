@@ -7,18 +7,18 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Bacharelado <a href="https://www.unifg.edu.br/">UNIFG</a>.
+- 🎓 Bacharelado em Ciência da Computanção na <a href="https://www.unifg.edu.br/">UNIFG</a>.
 - 💼 Procurando oportunidades como Desenvolvedor Júnior
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🌱 &nbsp; Alternando estudos entre Frontend e Backend.
 
 <h3>Minhas Skills</h3>
 
 **Aplicações e dados**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![C#]
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript]
+![TypeScript](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
