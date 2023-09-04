@@ -9,7 +9,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Bacharelado em Ciência da Computanção na <a href="https://www.unifg.edu.br/">UNIFG</a>.
 - 💼 Procurando oportunidades como Desenvolvedor Júnior
-- 🌱 &nbsp; Alternando estudos entre Frontend e Backend.
+- 🌱 &nbsp;Alternando estudos entre Frontend e Backend.
 
 <h3>Minhas Skills</h3>
 
