@@ -47,5 +47,5 @@
 <h3>Onde me encontrar</h3>
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-morais-7141b1214/)](https://www.linkedin.com/in/eduardo-morais-7141b1214/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dudu.vgvm@gmail.com)](mailto:dudu.vgvm@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:dudu.vgvm@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/EduardoVGVM?label=follow&style=social)](https://github.com/EduardoVGVM)
