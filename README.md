@@ -10,7 +10,7 @@
 - 🎓 Bacharelado em Ciência da Computanção na <a href="https://www.unifg.edu.br/">UNIFG</a>.
 - 💼 Procurando oportunidades como Desenvolvedor Júnior
 - 🌱 &nbsp;Alternando estudos entre Frontend e Backend.
-- 🐟 Apreciador casual de Tiaralaments.
+- 🐟 Apreciador casual de Tiaraments.
 
 <h3>Minhas Skills</h3>
 
